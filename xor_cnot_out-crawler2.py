@@ -4,7 +4,7 @@ from urllib.parse import urljoin
 import time
 import sys
 
-class XOR_CNOT_OUTCrawle:
+class XOR_CNOT_OUTCrawler:
     def __init__(self, start_url, max_depth=15, grid_size=5, target_words=None):
         self.start_url = start_url
         self.max_depth = max_depth
@@ -116,5 +116,5 @@ class XOR_CNOT_OUTCrawle:
 
 # Usage Example:
 target_keywords = ["quantum", "new", "novel"]
-crawler = XOR_CNOT_OUTCrawle(sys.argv[1], target_words=target_keywords)
+crawler = XOR_CNOT_OUTCrawler(sys.argv[1], target_words=target_keywords)
 crawler.crawl()
