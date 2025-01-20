@@ -1,8 +1,9 @@
-# XOR_CNOT-out-webcrawler - (C)Tsubasa Kato - Inspire Search Corporation 2025/1/20 23:04PM
-# Designed by Tsubasa Kato, coded with Perplexity Pro 
-# https://www.inspiresearch.io/en
-# Contact by Email: tsubasa@inspiresearch.io
-# This demonstrates how simple gates (digital and "quantum") can control web crawlers decision mechanism / visualization.
+XOR_CNOT-out-webcrawler - (C)Tsubasa Kato - Inspire Search Corporation 2025/1/20 23:04PM
+
+Designed by Tsubasa Kato, coded with Perplexity Pro 
+https://www.inspiresearch.io/en
+Contact by Email: tsubasa@inspiresearch.io
+This demonstrates how simple gates (digital and "quantum") can control web crawlers decision mechanism / visualization.
 This is a sample web crawler that uses XOR and CNOT for controlling a web crawler.
 
 1. Class Initialization:
