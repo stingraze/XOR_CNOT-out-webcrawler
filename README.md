@@ -12,7 +12,7 @@ This demonstrates how simple gates (digital and "quantum") can control web crawl
 
 This is a sample web crawler that uses XOR and CNOT for controlling a web crawler.
 
-Explanation of the code:
+Explanation of the code (xor_cnot_out-crawler.py):
 
 1. Class Initialization:
    - The `XOR_CNOT_OUTCrawler` class is initialized with a starting URL, maximum crawl depth, and grid size.
