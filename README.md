@@ -6,6 +6,8 @@ Company Website: https://www.inspiresearch.io/en
 
 Contact by Email: tsubasa@inspiresearch.io
 
+[![XOR CNOT Out Crawler - Python Crawler controlled by Digital and Quantum Gates](https://img.youtube.com/vi/_HSXjvhzw2I/0.jpg)](https://www.youtube.com/watch?v=_HSXjvhzw2I)
+
 This demonstrates how simple gates (digital and "quantum") can control web crawlers decision mechanism / visualization.
 
 This is a sample web crawler that uses XOR and CNOT for controlling a web crawler.
